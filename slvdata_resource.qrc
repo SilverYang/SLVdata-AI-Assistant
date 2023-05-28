@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>image/classify_icon.png</file>
+    <file>image/connect_icon.png</file>
+    <file>image/keyword_icon.png</file>
+    <file>image/logo_icon.png</file>
+    <file>image/exit_icon.png</file>
+    <file>image/help_icon.png</file>
+    <file>image/version_icon.png</file>
+    <file>image/logo_icon_64x64.png</file>
+    <file>image/pii_icon.png</file>
+    <file>image/sentiment_icon.png</file>
+  </qresource>
+  <qresource prefix="type">
+    <file>image/classify_type.png</file>
+    <file>image/pii_type.png</file>
+    <file>image/sentiment_type.png</file>
+    <file>image/keyword_type.png</file>
+  </qresource>
+</RCC>
