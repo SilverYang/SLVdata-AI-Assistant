@@ -1,6 +1,6 @@
 # SLVdata-AI-Assistant
 ### Introduction
-SLV AI Assistant is a software developed using the Python programming language and launched by the SLV Data Processing Site (SLVdata.com). It can run on systems with Windows 7 and above. Utilizing deep neural network algorithms, it provides powerful functionalities to help users analyze data deeply and gain valuable insights and observations.
+SLV AI Assistant is a software developed using the Python programming language and launched by the SLV Data Processing Site (https://SLVdata.com). It can run on systems with Windows 7 and above. Utilizing deep neural network algorithms, it provides powerful functionalities to help users analyze data deeply and gain valuable insights and observations.
 
 ### Features
 SLV AI Assistant offers the following main features:
