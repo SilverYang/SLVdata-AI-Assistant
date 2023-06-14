@@ -3,10 +3,10 @@
 SLV AI Assistant is a software developed using the Python programming language and launched by the SLV Data Processing Site (https://SLVdata.com). It can run on systems with Windows 7 and above. Utilizing deep neural network algorithms, it provides powerful functionalities to help users analyze data deeply and gain valuable insights and observations.
 
 ### Features
-SLV AI Assistant offers the following main features:
+SLV AI Assistant offers the following features:
 
 ### Sentiment Analysis
-SLV AI Assistant can perform sentiment analysis on e-commerce review data, helping users understand the underlying sentiment behind the reviews. By identifying the emotional state within the reviews, the software enables users to quickly grasp consumers' attitudes and reactions towards products or services. This aids in understanding which reviews are positive, which are negative, and the trends in sentiment distribution.
+SLV AI Assistant can perform sentiment analysis on e-commerce comment data, helping users understand the underlying sentiment behind the comments. By identifying the emotional state within the reviews, the software enables users to quickly grasp consumers' attitudes and reactions towards products or services. This aids in understanding which reviews are positive, which are negative, and the trends in sentiment distribution.
 
 ### Multi-Label Text Classification
 SLV AI Assistant supports the functionality of multi-label text classification, also known as comment classification. This feature categorizes comment data into different classes or topics, assisting users in organizing and comprehending large-scale comment data more effectively. By classifying comments into specific subjects or categories, users can analyze and process the data more efficiently and devise relevant business strategies accordingly.
